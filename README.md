@@ -8,7 +8,6 @@ And before that, almost two years at a fintech startup in Austria, where I worke
 
 ## Interests
 
-- Evaluation: knowing whether a system actually works, not just whether it demos well.
 - The intersection of AI and healthcare.
 - Fine-tuning, alignment and monitoring of LLMs.
 - Not using AI when the human element is what matters.
