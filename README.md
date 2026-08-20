@@ -10,7 +10,8 @@ And before that, almost two years at a fintech startup in Austria, where I worke
 
 - The intersection of AI and healthcare.
 - Fine-tuning, alignment and monitoring of LLMs.
-- Not using AI when the human element is what matters.
+- Implementing agentic workflows for maximal efficiency.
+- Actually not using AI when the human element is what matters.
 
 ## Publications
 
