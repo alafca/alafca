@@ -1,6 +1,6 @@
 # Alejandro Afonso
 
-Mathematician turned AI Engineer with ~5 years of experience. I build LLM agents, retrieval systems, computer vision and other ML pipelines; I handle deployment, monitoring and maintenance as well. Also data science. Currently working remotely for In2AI, an AI consultancy in Madrid.
+Mathematician turned AI Engineer with 5+ years of experience. I build LLM agents, retrieval systems, computer vision and other ML pipelines; I handle training, evaluation, deployment, monitoring and maintenance as well. Also data science. Currently working remotely for In2AI, an AI consultancy in Madrid.
 
 Before that, two years of clinical machine learning research at Uniklinikum Erlangen — biomarker discovery and treatment-response prediction on oncology data, which produced three publications.
 
